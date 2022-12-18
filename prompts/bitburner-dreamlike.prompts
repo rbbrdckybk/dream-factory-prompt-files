@@ -21,11 +21,11 @@
 !CKPT_FILE = dreamlike-diffusion-1.0.ckpt
 
 # optional integrated upscaling
-!USE_UPSCALE = no						# upscale output images?
-!UPSCALE_AMOUNT = 2.0					# upscaling factor
-!UPSCALE_CODEFORMER_AMOUNT = 0.0		# how visible codeformer enhancement is, 0-1
-!UPSCALE_GFPGAN_AMOUNT = 0.0			# how visible gfpgan enhancement is, 0-1
-!UPSCALE_KEEP_ORG = no					# keep the original non-upscaled image (yes/no)?
+!USE_UPSCALE = no
+!UPSCALE_AMOUNT = 2.0
+!UPSCALE_CODEFORMER_AMOUNT = 0.0
+!UPSCALE_GFPGAN_AMOUNT = 0.0
+!UPSCALE_KEEP_ORG = no
 
 # to avoid auto-inserting "dreamlikeart" into prompts
 !AUTO_INSERT_MODEL_TRIGGER = off
