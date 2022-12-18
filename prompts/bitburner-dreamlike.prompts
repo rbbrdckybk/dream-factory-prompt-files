@@ -1,0 +1,259 @@
+# *****************************************************************************************************
+# Dream Factory standard prompt file
+# credit to BitBurner
+# original reddit thread: https://www.reddit.com/r/sdforall/comments/zouyyz/i_have_compiled_a_selection_of_100_prompts/
+# *****************************************************************************************************
+[config]
+
+!MODE = standard
+!DELIM = " "	
+!REPEAT = yes
+
+!WIDTH = 704
+!HEIGHT = 512
+!HIGHRES_FIX = no
+!STEPS = 36
+!SAMPLER = DPM++ 2M Karras
+!SAMPLES = 1
+!SCALE = 8.5
+!INPUT_IMAGE = 
+!STRENGTH = 0.65
+!CKPT_FILE = dreamlike-diffusion-1.0.ckpt
+
+# optional integrated upscaling
+!USE_UPSCALE = no						# upscale output images?
+!UPSCALE_AMOUNT = 2.0					# upscaling factor
+!UPSCALE_CODEFORMER_AMOUNT = 0.0		# how visible codeformer enhancement is, 0-1
+!UPSCALE_GFPGAN_AMOUNT = 0.0			# how visible gfpgan enhancement is, 0-1
+!UPSCALE_KEEP_ORG = no					# keep the original non-upscaled image (yes/no)?
+
+# to avoid auto-inserting "dreamlikeart" into prompts
+!AUTO_INSERT_MODEL_TRIGGER = off
+
+# *****************************************************************************************************
+# prompt section
+# *****************************************************************************************************
+[prompts]
+
+1970s sci-fi art, futuristic cyberpunk hacker pilot, wearing a thin futuristic vr eye visor, long blonde hair like he-man, sitting inside a sci-fi fighter cockpit as the pilot, controls, screens, panels, and the pilot are visible in the craft as it flys by, futuristic dalaran coruscant cityscape like nar shaddaa in the background, in the style of Chriss Foss, Darrell K. Sweet and Michael Whelanberserk, singleface, cinematic lighting
+
+A  research facility with a giant Aquarium inside an endless underground research laboratory + bone creatures in aquariums while victorian women look. lilac, mystical, texture, photorealism, hyper-realistic
+
+A beautiful oil painting hyperrealism of a happy smiling zombie head, green bulging eyes, rotten green skin, grey beard, blue veins, skull bones, moody lighting, 8 k resolution, octane render, trending on artstation, by h. r. giger and greg rutkowski
+
+a beautiful rendition of Young Amy Adams as Triss Merigold, insanely detailed, hypermaximalist, mystical, color illustration, trending on artstation, Larry Elmore, Tim Hildebrandt, Roy Krenkel
+
+a dimly lit room with a cyberpunk girl sat in the middle. a wall of televisions and computer screens. eerie yellow glow. oscilloscope. cyberpunk vibes. sci - fi. zack snyder. tooth wu and wlop and beeple and greg rutkowski and peter gric and victo ngai
+
+a highly detailed beautiful masterpiece painting of a technomagical laboratory cluttered with computers and arcane components. in the middle of the room a technomancer wizard in dazzle camouflaged robes discusses sentience with his synthesized ai djinn. behind them is a large supercomputer. the room is lit with dayglo pink and dayglo blue. ) ( by remedios varo! and anato finnstark and greg rutkowski and andy warhol and francis picabia dayglo pink, dayglo blue, prismatic, pearlescent white, raven black, glowing, hyperrealism 8 k, trending on artstation
+
+a humanoid armored futuristic cybernetic samurai with glowing neon decals, award winning photograph, close up, focused trending on artstation, octane render, portrait, hyperrealistic, ultra detailed, photograph,3d, unreal engine, lumion, 4k , upbeta testp video upbeta
+
+a hyper detailed photo realistic horror character portrait, 1 9 8 0 by john totleben, Darrell K Sweet, Wes Wilson, Mark Brooks depicting an alien cyborg [[theCyborg Hacker]], cyberpunk, character portrait
+
+a hyper detailed photorealistic painted horror movie poster for the thing  1 9 8  by john totleben & john carpenter depicting a horroifying abstract shape shifting alien [[theCyborg Hacker]] organism made of human and animal tissue
+
+A portrait of rosie the riveter, final fantasy, digital painting, portrait, cinematic lighting, highly detailed, artstation, concept art, illustration, smooth, sharp focus, artgerm, greg rutkowski, alphonse mucha, editor's pickup, trending on artstation, trending on deviantart, wlop, 8k
+
+A powerful wizard, dark art, highly detailed, bright red and green glow. X-ray, Centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting
+
+a spooky skeleton, character portrait, highly detailed, intricate, art by Tim Hildebrandt, Darrell K Sweet, Mark Brooks
+
+a zombie astronaut , diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha
+
+Alien ship interior, control panels, lights, unknown machinery, advanced technology, spiral entrance, fine details, perfect, 8 k high detail, masterpiece, trending on artstation, by ian mcque, bradley wright
+
+alien xenomorph, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face
+
+all chrome woman robot in the style of Ed Valigursky cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, in the style of Marc Simonetti retro futurism intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic
+
+Amy Adams as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render
+
+An alien planet psychedelic marijuana forest with bioluminescent lighting dark art highly detailed neon dark art deviant super detailed 4k render by gustave dore
+
+An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, bright red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, viktor antonov, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face
+
+An almost endless field of marijuana, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+an anatomy poster of Rick and Morty, dark art, highly detailed, bright red and green and blue glow centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, highly detailed, intricate,ink illustration, magic glow, bioluminescent lighting no long neck  
+
+an ancient magical mushroom, bright neons, holographic, fantasy,magical, ultra detail,hyper realistic,8k,misty fog,by james mccarthy in unreal engine
+
+anatomy poster of a bio mechanical machine from hell capable of destroying the human race, dark art, highly detailed, bright red and green and ultraviolet glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting
+
+Anatomy poster of an alien, dark art, highly detailed, bright red and green glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting
+
+ancient alchemist wizards laboratory inside of a spaceship, high details, lineart, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, high contrast, hyper - detailed, hd, 4 k, 8 k
+
+ancient cloaked wizards mixing potions in his laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k
+
+Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face!!, high details, digital painting, artstation, smooth face, soft focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+beyond the reach of human range a drop of hell a touch of strange, highly detailed
+
+black paper, orzhov angel, symetrical, forsaken spirits, golden ratio, elements, gold, neon, baroque, rococco, white, ink, tarot card with ornate border frame, marc simonetti, paul pope, peter mohrbacher, detailed, intricate ink illustration.
+
+Brigitte from overwatch, character portrait, portrait, close up, concept art, intricate details, highly detailed, vintage sci - fi poster, retro future, in the style of chris foss, rodger dean, moebius, michael whelan, and gustave dore
+
+Caterpillar from Alice in Wonderland sitting in a field of marijuana smoking a hookah, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+Chrysta bell, league of legends, intricate, highly detailed, digital painting, hyperrealistic, artstation, concept art, smooth, sharp focus, illustration, unreal engine 5, 8k, art by artgerm and greg rutkowski and alphonse mucha, by jesper ejsing
+
+cinematic bust of one psychedelic robot, exotic alien features, space background, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, masterpiece, trending on artstation, featured on pixiv, cinematic composition, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k, desaturated!!!
+
+cinematic bust portrait of extraterrestrial shaman, head and chest only, exotic alien features, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K
+
+Cinematic bust portrait of psychedelic robot from left, head and chest only, exotic alien features, robotic enhancements, desaturated, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k
+
+CONTROL ROOM, ILLUMINATING SCREENS ON THE WALLS SHOWING NIGHTMARES, concept art by Nekro XIII, Dan Mumford, Dan Seagrave, Peter Mohrbacher, psychedelic black light, epic composition, horror, morbid, terrifying, horrifying 
+
+cosmic horror, HD,music, human, trumpet, musician, Biological Indicators, Cthulhu (fictional divinity created by H.P. Lovecraft), elegant, drugs, history book, Written in red
+
+cyber-security hacker matrix code desktop wallpaper, dark art, highly detailed, notes, medical, x-ray, anatomical, bright green and red glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+cyber-security hacker matrix code desktop wallpaper, highly detailed, bright green glow, centered on a black background, pen and ink, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting
+
+Cyberpunk portrait of the devil from doom , au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by klimt and nixeu and ian sprigger and wlop and krenz cushart.
+
+Dark digital concept art portrait of a high - tech robot on a depth of field background, artstation, award - winning realistic sci - fi concept art by jim burns and greg rutkowski, beksinski, a realism masterpiece, moody color palette, james gilleard, bruegel, alphonse mucha, and yoshitaka amano
+
+dark gothic king with a shining red philosopher stones in his crown, details, mystery, witchcraft, dark magic, forbidden knowledge, dramatic lighting, scary, dramatic mist, dark, grey, intricate details, 4k
+
+Darth Vader dark art día de muertos baroque Vaporwave highly detailed + bright red glow + centered on a black background + pen and ink + tarot card in the style of Marc Simonetti + Gustave Dore + Kim Jung Gi + detailed + intricate ink illustration + magic glow + bioluminescent lighting no long neck and second face
+
+Demons, defying space and time, unknown wavelengths, celestial and haunting, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Mike Mignola, Kim Jung Gi, peter mohrbacher, Satoshi Kon, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face
+
+disturbing grunge image of a demon infested fungus, 2 meters tall. horror airbrush art, by greg rutkowski, by greg tocchini, by tom bagshawred, colored ink on wet sketchbook paper, white, red, black, crimson and grey color scheme
+
+Donald Trump as Jabba the hutt, diffuse lighting,, intricate, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by (Ralph McQuarrie), [Philippe Druillet], [Al Williamson]
+
+Donald Trump phantasmagoria, horror art by toha mashudi and beksinski and szukalski and giger and and pyromallis and dzo and iris compiet and seb mckinnon and, digital art, highly detailed, intricate, sharp focus, trending on artstation hq, deviantart, pinterest, unreal engine 5, 4 k uhd image
+
+Donald Trump, monster, zombie, rotting flesh, horror, ultra-realistic, high details, intricate details, by artgerm, vincent di fate, julie bell, beeple, Darrell K Sweet, Mark Brooks, 1 9 8 0 s, inking, vintage 8 0 s print, screen print
+
+donald trump's disgusting true form, high details, intricate details, by vincent di fate, artgerm julie bell beeple, 90s, inking, vintage 60s print
+
+dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity, by dan mumford and by alberto giacometti, peter lindbergh
+
+dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity
+
+epic rockabilly bouffant hobbit girl by Boris Vallejo   creative
+
+first-person sci-fi fighter cockpit controls screen panels, futuristic dalaran coruscant cityscape like nar shaddaa, gopro perspective, berserk manga art style breath of the wild
+
+Glowwave portrait of the joker from borderlands 3, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by heri irawan and wlop
+
+Hacker, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+Hacker, wizard, ascii art, dark art, fire and magic, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face
+
+hyper realistic portrait of warhammer machine head, cinematic, chaos marine, artstation, cgsociety, full head, greg rutkowski, james gurney, mignola, craig mullins, brom
+
+Hyperdetailed stunningly beautiful slaanesh djinn robot made of iridescent metals and shiny gems, long red hair, golden necklace, noble androgyne skeleton inspired by ross tran and wlop and masamune shirow and kuvshinov, photorealistic, concept art, bloody intricate, highly detailed, photorealistic, octane render hdr, by artgerm, dnd digital art
+
+hyperrealistic close-up alien! highly detailed concept art eric zener elson peter cinematic hard blue lighting high angle hd 8k sharp shallow depth of field, inspired by David Paul Cronenberg and Zdzisław Beksiński
+
+If computer malware was a person, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+If Dubstep was a person, highly detailed, bright green and red glow, notes, medical, x-ray, anatomical, dark arts, centered on a black background, tarot card, in the style of Marc Simonetti, Gustave Dore, giger, detailed, intricate, realistic, ink illustration, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic
+
+if dubstep were a person dark art, highly detailed, psychedelic black light, bright green and red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting
+
+If he-man from the cartoon and Cyclops Scott Summers, comic-book, were perfectly mixed into one cyberpunk hacker pointing at you laughing maniacally red glow from eye visor Cartoon, yellow, blonde He-man hair, over exaggerated wearing cyclops' visor highly detailed centered on a black background, tarot card, black light psychedelic style gloomcore illustration by Marc Simonetti , Mike Mignola retro futurism.5 intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic male, long blonde he-man hair
+
+intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+mad - scientist laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k
+
+Millie bobbie brown as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render
+
+nightmare etherreal iridescent vascular nerve bundles pearlescent spinal chord horror by Naoto Hattori, Zdzislaw, Norman Rockwell, Studio Ghibli, Anatomical cutaway
+
+Painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, red and gold, majestic, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha
+
+painting of a rotting slimy zombie wearing a cop uniform by edgar maxence and rhads and leyendecker. police, award - winning digital art on pixiv, trending on artstation, cinematic lighting, dramatic lighting, stunning and beautiful scenery - highly detailed, hyperrealistic, unreal engine 5
+
+Portrait art of 8k ultra realistic retro futuristic zombie astronaut, broken galaxy reflected helmet, detailed intricate ornate armour, blade runner, cybernetic, full of colour, cinematic lighting, battered, trending on artstation, 4k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by ayami kojima, giger
+
+Portrait of computer & circuits, melting, screams of the man who lives next door, 8 k, by tristan eaton, stanley artgermm, tom bagshaw, greg rutkowski, carne griffiths, ayami kojima, beksinski, giger, trending on deviantart, face enhance, hyper detailed, minimalist, cybernetic, android, blade runner, full of colour, super detailed
+
+Portrait of disney merida, intricate, elegant, highly detailed, my rendition, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and uang guangjian and gil elvgren and sachin teng, symmetry!!
+
+Portrait of nick offerman as thor, eyepatch, muscular, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+Portrait of princess leia, starwars, pistol, upper body, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+Portrait of princess peach from the mushroom kingdom, nose ring, upper body, blonde hair, long hair, joyful smirk, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+portrait of Snoop Dogg as gandalf the grey, by alan lee, lord of the rings calendar, smooth, detailed terrain, oil painting, matte painting, concept art, trending on artstation
+
+Portrait of young emma stone wearing boho clothing, hippie, long hair, groovy hairband, bangs, intricate, smooth, groovy lighting, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski
+
+portrait, lich king necromancer, tribal, dark void, evil, solemn, handsome, fantasy art by John Howe and Greg Rutkowski
+
+poster of an cyber diety tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, Marc Simonetti, Gustave Dore, Kim Jung Gi. James McCarthy detailed, intricate, digital illustration, magic glow, bioluminescent lighting no long neck and no second face
+
+pure black background, Beautiful femme fatale rembrandt lighting, red lipstick, profile, portrait, close up, darkness, emotion, intricate detail, stunning, d artwork, comic style, manga, anime, contrast, smooth, jojos bizarre adventure testp creative   upbeta
+
+Realistic detailed closeup portrait painting of a single skeleton wearing red velvet blazer in a crowded futuristic city street by jean delville, amano, yves tanguy, alphonse mucha, ernst haeckel, edward robert hughes, roger dean, rich moody colours, blue eyes
+
+realistic portrait beautiful concept art of mortal kombat movie scene when liu kang mutate into alien worm. horror, created by gustave dore and greg rutkowski, high detailed, smooth draw, synthwave neon retro, intricate, trending on artstation.
+
+sci-fi fantasy poster of an human with computer brain, dark art highly detailed bright green and red and blue glow centered on a black background pen and ink tarot card Marc Simonetti, Moebius, Darrell K. Sweet, detailed, intricate ink illustration magic glow bioluminescent lighting, comicbook cover style
+
+sci-fi fantasy poster, portrait of an alien with huge round white ball head, in the style of takashi murakami, Marc Simonetti, Darrell K. Sweet, Laurie Greasley, gustave dore  000   iw 3
+
+spacecraft cockpit pilot seat containing an sexy cyborg, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k
+
+stunning otherworldly goddess of beauty, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face
+
+T800 endoskeleton mixed with Darth lord Sith, RPG Reference,  art by ilya kuvshinov, artgerm, Alphonse mucha, and Greg Rutkowski, Trending on Artstation, octane render, Insanely Detailed, 8k, HD
+
+taylor swift in the style of stefan kostic, realistic, full body, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm
+the cockpit of my mind by Richard Corben
+
+the most advanced geometric technological hacker, black light psychedelic style gloomcore illustration by Marc Simonetti , Mike Mignola, Giger and Satoshi Kon D gouache vaporwave + glitchcore illustration, portrait  junglepunk + fractalpunk cthulhu summoning portal, NFO Ascii art  glowing neon techcore symbols, the NeverEnding Story and Stranger Things
+
+THE TRAIN TO BUSAN, zombies, fear, terror, the plague, detailed concept art by Nekro XIII, Dan Mumford, Peter Mohrbacher, psychedelic black light, detailed, intricate complexity, epic composition, horror, morbid, terrifying, horrifying , 4K
+
+the unlucky mage. pen and ink by larry elmore, 1 9 8 0 s
+
+ultra detailed scottw Android deity, scifi, octane render, (dia de los muertos), asymmetrical, intricate concept art, triadic color scheme, art by artgerm and giger and DZO and greg rutkowski and alphonse mucha and loish and WLOP
+
+Ultra realistic illustration, a hulking herculean dave bautista with leather armour, from doom and warhammer, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+Ultra realistic illustration, brad pitt, ravishing : extremely attractive or beautiful ; entrancing. recherche : exquisite ; lavishly elegant ; exotic. remarkable : worthy of attention ; striking. resplendent : splendid ; brilliant ; dazzling ; colorful and shinyintricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+Ultra realistic portrait painting of amy adams as a western outlaw, art by frank frazetta, 4 k, ultra realistic, highly detailed, epic lighting
+
+Very Eroded war machine, cursed, extraterrestrial, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+Very very very very highly detailed epic zoom out photo of full face with lion venetian mask, intricate, dystopian, sci-fi, extremely detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, intimidating lighting, incredible art by artgerm and vincent di fate
+
+Willy Wonka as Morpheus, wearing matrix-garb
+
+Yoda, matte painting by greg rutkowski
+
+
+
+[prompts]
+
+# Examples 1 No Style Added
+!NEG_PROMPT = 
+
+.
+
+# Examples 2 - Mix of photo and illustration
+!NEG_PROMPT = text, blocks, jpeg, jpg, watermark
+
+, cinematic shot + photos taken by ARRI, photos taken by sony, photos taken by canon, photos taken by nikon, photos taken by sony, photos taken by hasselblad + incredibly detailed, sharpen, details + professional lighting, photography lighting + 50mm, 80mm, 100m + lightroom gallery + behance photographys + unsplash
+
+# Examples 3 - Forced to Illustration
+!NEG_PROMPT = photo, picture, realism, ultra-realism, ultra realism, camera, cameras, lens, contact sheet, collage, crops, frames, boxes, lines, crop, split, split image, multiple images, split screen, split photo, two photos, text, blocks, jpeg, jpg, watermark, cgi, rendered, mangled hands,  photograph, photographic, real
+
+, detailed, illustration
+
+# Examples 4 - Forced to Photorealism
+!NEG_PROMPT = panels, camera, cameras, lens, contact sheet, collage, crops, frames, boxes, lines, crop, split, split image, multiple images, split screen, split photo, two photos, text, blocks, jpeg, jpg, watermark, illustration, cgi, rendered, painting, comic book, drawing, mangled hands, comicbook
+
+, cinematic shot photo taken by ARRI, photo taken by sony, photo taken by canon, photo taken by nikon, photo taken by sony, photo taken by hasselblad incredibly detailed, sharpen, details professional lighting, photography lighting 50mm, 80mm, 100m lightroom gallery behance photographys unsplash
