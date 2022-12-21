@@ -1,11 +1,11 @@
-# **************************************************************************************************************************************************************************************************
+# ***********************************************************************************************************************
 # Dream Factory standard prompt file
 # BitBurner's Top 100 SD v2.1 prompts
 # requires the SD v2.1 model: https://huggingface.co/stabilityai/stable-diffusion-2-1
 # requires the midjourney.pt embedding to be installed in your auto1111 embeddings dir : https://www.reddit.com/r/StableDiffusion/comments/z622mp/trained_midjourney_embedding_on_stable_diffusion/
 # credit to BitBurner
 # original reddit thread: https://www.reddit.com/r/sdforall/comments/zrdz1c/im_back_with_a_new_spreadsheet_of_100_prompt/
-# **************************************************************************************************************************************************************************************************
+# ***********************************************************************************************************************
 [config]
 
 !MODE = standard
