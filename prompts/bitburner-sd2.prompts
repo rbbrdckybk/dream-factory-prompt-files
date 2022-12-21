@@ -1,0 +1,262 @@
+# **************************************************************************************************************************************************************************************************
+# Dream Factory standard prompt file
+# BitBurner's Top 100 SD v2.1 prompts
+# requires the SD v2.1 model: https://huggingface.co/stabilityai/stable-diffusion-2-1
+# requires the midjourney.pt embedding to be installed in your auto1111 embeddings dir : https://www.reddit.com/r/StableDiffusion/comments/z622mp/trained_midjourney_embedding_on_stable_diffusion/
+# credit to BitBurner
+# original reddit thread: https://www.reddit.com/r/sdforall/comments/zrdz1c/im_back_with_a_new_spreadsheet_of_100_prompt/
+# **************************************************************************************************************************************************************************************************
+[config]
+
+!MODE = standard
+!DELIM = " "	
+!REPEAT = yes
+
+!WIDTH = 1024
+!HEIGHT = 768
+!HIGHRES_FIX = no
+!STEPS = 23
+!SAMPLER = Euler a
+!SAMPLES = 1
+!SCALE = 8.5
+!INPUT_IMAGE = 
+!STRENGTH = 0.65
+!CKPT_FILE = v2-1_768-ema-pruned.ckpt
+
+# optional integrated upscaling
+!USE_UPSCALE = no
+!UPSCALE_AMOUNT = 2.0
+!UPSCALE_CODEFORMER_AMOUNT = 0.0
+!UPSCALE_GFPGAN_AMOUNT = 0.0
+!UPSCALE_KEEP_ORG = no
+
+# *****************************************************************************************************
+# prompt section
+# *****************************************************************************************************
+[prompts]
+
+A beautiful girl with black hair in 1950's fashion, ballroom background, intricate, highly detailed, artstation, official media, anime key visual, rich vivid colors, ambient lighting, sharp focus
+
+A beautiful woman gal gadot with horns and armor, fantasy art, dramatic lighting, highly detailed
+
+A detailed head portrait of a rachael of blade runner on a futuristic street, neo noir style, cinematic, neon lights glow in the background
+
+futuristic technologically advanced Egyptian tron style civilization cinematic elevated shot
+
+a full page concept designs of teleportation device, steampunk blueprint, intricate details, ink on paper, scientific, Highly detailed labeled, poster
+
+a portrait of dana scully, suit and skirt, coy but serious, character portrait
+
+a witch stirring a witch s cauldron, as a dnd character, inside a cluttered basement, cottagecore, highly detailed, smooth, sharp focus
+
+a woman with light brown hair and glasses sitting on top of a tall pile of books. well composed, clean elegant, beautiful detailed face.
+
+all chrome woman robot, cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, retro futurism, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic
+
+Amy Adams goddess of the forest, detailed face, amazing, flowers, intricate, highly detailed, sharp focus
+
+Amy Adams in scene from twin peaks, clean, simple , nostalgic, domestic, highly detailed, smooth, sharp focus
+
+amy adams, traditional corsican, intricate, highly detailed, slice of life
+
+An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, centered on a black background, magic glow, bioluminescent lighting
+
+Anatomy poster of a demon head, tarot card, dark art, highly detailed + bright green and red glow + centered on a black background in the style of magic the gathering art, detailed, magic glow + bioluminescent lighting
+
+anatomy poster of a Grinch, dark art, highly detailed, notes, green and red glow, medical, x-ray, anatomical, atmospheric, ominous, eerie, cinematic, Epic
+
+Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face, high details, smooth face, soft focus
+
+anime, cluttered art shop, art studio full of tools and paints and magic, whimsical
+
+arma 4, highly detailed, excellent composition, cinematic, dramatic lighting
+
+bear playing futuristic minimalistic acoustic guitar, fantasy character portrait
+
+Beautiful cyberpunk soldier wearing a cyberpunk headset and tactical gear
+
+Beautiful female ginger hair glasses symmetrical face eyes full length fantasy art, fae princess, forest landscape reading a book, fantasy magic, dark light night, sharp focus, 4k, d&d
+
+beautiful intricate man, very long and psychedelic hair, striking eyes + slight smile + determined posture + amazing look + soft light + steampunk clothing, High Contrast, Perfectionism, Cinematic Lighting, Post-Production
+
+beautiful, intricate stunning highly detailed female vampire, pulp portrait, soft studio lighting, intricate detail, volumetric lighting, hdr, fantasy, 8K
+
+Black Canary in He-Man and the Masters of the Universe (1983) screenshot, animated cartoon still, 5k, blu-ray
+
+black widow, portrait, symmetrical, highly detailed, smooth, sharp focus, cinematic lighting
+
+Bob Ross, horror, highly detailed, lifelike
+
+close-up portrait of an attractive female dressed as The Punisher played by Jennifer Connelly, punisher skull shirt, bioluminescent colors, cinematic lighting, epic composition, golden ratio
+
+computer malware, borg infection, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k
+
+a ruthless bounty hunter from star wars, detailed portrait
+
+concept art of treasure hunter, in motion, anime
+
+Cthulhu Disneyland, aerial shot 
+
+cyberpunk alien, sci-fi horror, high details, intricate details, 1980s, vintage 80s 
+
+Barbarella + Mars Attacks + flash Gordon 80s movie style, space opera heroine, sci-fi, intricate, futuristic, fantasy
+
+Cyborg, Hacker, highly detailed, bright green and red glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, hyper realistic, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic
+
+Daphne Blake from the TV show Scooby Doo, She wears a short long-sleeved purple dress featuring a mauve hem and cuffs with an additional mauve hoop below the waist, Her outfit also includes a mauve headband and green scarf and is completed by mauve shoes, dynamic pose, insanely detailed, widescreen
+
+Dark portrait of a high - tech alien wizard on a depth of field background, sci - fi concept, moody color palette
+
+Darth Vader dark art highly detailed bright red glow centered on a black background tarot card magic glow bioluminescent lighting
+
+Darth Vader, cyberpunk 2 0 7 7 character portrait
+
+demon wizard incal from tribal science fiction
+
+Detailed face portrait of a beautiful futuristic viking warrior in alien cyberpunk armor, female, feminine, art nouveau, cyberpunk, neo - gothic, gothic, character concept design
+
+doom guy ,hyper detailed, cinematic lighting, studio quality, smooth
+
+Dr Disrespect as a supervillain
+
+Dr Disrespect in a dark scary alleyway, full tactical gear, red and black, outrun style VHS aesthetic
+
+Dr Disrespect in G.I. Joe (1985) cartoon screenshot, animated cartoon still, 5k, blu-ray, mullet, oakley sunglasses, full tactical gear, red and black,character portrait
+
+Amy Adams as Miss Frizzle, character portrait
+
+DVD screengrab of the spaceship scene from the movie Chrome Lords (1988) was a shameless ripoff of Terminator and Robocop
+
+enclosed glass isometric cube containing small ecosystem, no background, cute, isolated ecosystem
+
+enormous mythical tree house tower, beautiful jungle, beautiful sky, detailed
+
+Epic professional portrait of a chronomancer helmeted space priest, master science fiction art, breathtaking, epic, stunning, gorgeous
+
+Fairy Living room Interior Photo
+
+floating inside vast space station with buildings, cinematic + man in Astronaut armour suit
+
+Flying vehicle, intricate , detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, centered on a black background, Epic
+
+Friendly humanoid robot, portrait bust, symmetry, faded colors, exotic alien features, cypherpunk background, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k
+
+Full length portrait of a gorgeous gal gadot, sharp focus, 8k high definition, insanely detailed, intricate, elegant
+
+futuristic cyberpunk airstream treehouse with tiki accents, velvet art, atmospheric lighting, center focus, hyperdetailed, 8k, high resolution, velvia, velvety, vibrant and rich colors, insanely detailed and intricate
+
+Giant shiny chrome robot mech, exotic alien features, forestpunk background, masterpiece, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k
+Amy Adams as Velma Dinkley in Jaba's palace scene from the Star Wars Return of the Jedi (1983)
+
+Girl wearing cyberpunk intricate streetwear riding futuristic tron motorcycle, respirator, detailed portrait, 4k, cinematic dramatic atmosphere, sharp focus, volumetric lighting, cinematic lighting, studio quality
+
+Gothic white - mage blonde braided hair dove cameron wearing ivory carved bone armor in the forest, green plants, fantasy character portrait, intricate, elegant, highly detailed
+
+Group of skinned metahumans screaming in rage and pain, horror art, highly detailed, intricate, sharp focus, hq, 4k uhd
+
+Taylor Swift in a Star Trek Uniform, character portrait
+
+Katy Perry as the Mad Hatter in Alice in Wonderland
+
+high detailed big wizard monk with neural network nerves and bones x ray + dark ambient.
+
+Jack Black portrait, high detailed, smooth draw, synthwave neon retro, intricate, perfect proportions, dramatic lighting
+
+jenna fischer cleric wearing a tiara made from flowers in a fantasy garden, glamour pose, long blonde wind swept hair, ethereal, dreamy, backlit, highly detailed, stern expression, realistic lighting, sharp focus, rule of thirds, symmetrical facial features
+
+Jennifer Lawrence as queen of the universe, cute, fantasy, intricate, elegant, highly detailed, 4k, hdr, smooth, sharp focus
+
+king tutankhamun, black light psychedelic egyption tron style, vaporwave + glitchcore, portrait + NFO Ascii art, glowing neon techcore symbols, the NeverEnding Story and Stranger Things
+
+medium shot portrait of a gorgeous anime Kate Upton, scene from overwatch, style of fortnite, detailed, smooth
+
+mid body Portrait of a gorgeous happy Diner waitress in her revealing uniform, include background is retro Diner interior background, highly detailed eyes, perfect lighting and shading, anime
+
+Mushroom goddess with group of elders, discussing the new season of friends, cynical realism, beautiful lighting
+
+Notorious infamous Alien villain portrait, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic
+
+Portrait futuristic evil cyberpunk young female death knight, in futuristic heavily snowy tokyo rooftop cyberpunk night, sci-fi, fantasy, intricate, very very beautiful, elegant, neon light, highly detailed, soft light, hdri, smooth, sharp focus
+Portrait of apex legends aaliyah haughton, x - men, storm, elegant, electricity arcs, lightning strikes, rippling electromagnetic, highly detailed, glamor pose, smooth, sharp focus
+
+portrait of apex legends scarlett johansson, intricate, elegant, glowing lights, highly detailed, glamor pose, smooth, sharp focus
+
+Portrait of Chewbacca, star wars, upper body, fantasy, intricate, highly detailed, smooth, sharp focus
+
+Portrait of disney Aurora, intricate, elegant, highly detailed, smooth, sharp focus
+
+Portrait of Steampunk Willy Wonka
+
+Portrait of rusty old robot, exotic alien features, robotic enhancements, desaturated, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k
+
+Portrait of teenage lucy lawless as xena, 1 9 5 0 s, intricate, elegant, magic glow, highly detailed, smooth, sharp focus
+
+poster of a cyber wizard shaman tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, detailed, intricate, magic glow, bioluminescent lighting
+
+professional portrait of female t800 assassin, armor elements, chrome, dynamic lighting, stunning hair, fading color, beautiful bone structure, symmetrical facial features, intricate, elegant, smooth, sharp focus
+
+pulp portrait of a beautiful young woman vampire detective
+
+Retro photo of Harrison Ford as Han Solo action figure + plastic + close up + symmetrical eyes + Mattel + centered + distance +  perfect anatomy + maximum detail + dark lighting + studio lighting + hard rim lighting + Photoshopped 
+
+retro sci-fi fantasy female humanoid gynoid robot inspired by sports car elements, highly detailed, detailed, intricate, vintage science fiction
+
+Rick Sanchez portrait inspired by rick and morty style, intricate, high detail, sharp high detail
+
+Michael Jackson as thanos, highly detailed, cinematic lighting
+
+Scarlett johansson in gone with the wind
+
+sci-fi fantasy, portrait of an alien with huge round white ball head
+
+silver bug is flying in a futuristic city, dieselpunk style, high detailed, cinematic mode, hdr, optical flare, teal orange color scheme
+
+slimer as a d & d monster, full body, 1 9 8 1, hq intricate details, inside stylized border
+
+space marine
+
+spacecraft cockpit internal security camera perspective, high details, intricately detailed, sharp, details, hyper - detailed, hd, 4k, 8k
+
+tank girl in Mad Max Beyond Thunderdome 1985
+
+the next poster for the new anime by Studio Ghibli, creators of Princess Mononoke, Howl's Moving Castle, Spirited Away, colorful, fantasy, anime
+
+three long haired musicians smoking long pipes in the forest, psychedelic, dark art, super detailed 4k
+
+Tiny adorable baby Yoda, magical world background, cinematic lighting, ultra detailed, hd, 8k
+
+ultra detailed wizard Android deity, sci-fi horror, (dia de los muertos), asymmetrical, intricate, triadic color scheme
+
+unicorn, candypunk, tarotpunk, VHS aesthetic, centered, detailed 
+
+vehicle designed for and capable of interdimensional space travel
+
+Yoda dark art highly detailed bright green glow centered on a black background tarot card, detailed, intricate, magic glow
+
+
+[prompts]
+
+
+# Examples 1 No Style Added
+!NEG_PROMPT = 
+
+.
+
+
+# Examples 2 - Mix of photo and illustration
+!NEG_PROMPT = text, blocks, jpeg, jpg, watermark
+
+, art by midjourney, cinematic shot + photos taken by ARRI, photos taken by sony, photos taken by canon, photos taken by nikon, photos taken by sony, photos taken by hasselblad + incredibly detailed, sharpen, details + professional lighting, photography lighting + 50mm, 80mm, 100m + lightroom gallery + behance photographys + unsplash
+
+
+# Examples 3 - Forced to Illustration
+
+!NEG_PROMPT = photo, picture, realism, ultra-realism, ultra realism, camera, cameras, lens, contact sheet, collage, crops, frames, boxes, lines, crop, split, split image, multiple images, split screen, split photo, two photos, text, blocks, jpeg, jpg, watermark, cgi,ed, mangled hands,  photograph, photographic, real
+
+, art by midjourney, detailed, illustration
+
+
+# Examples 4 - Forced to Photorealism
+!NEG_PROMPT = panels, camera, cameras, lens, contact sheet, collage, crops, frames, boxes, lines, crop, split, split image, multiple images, split screen, split photo, two photos, text, blocks, jpeg, jpg, watermark, illustration, cgi,ed, painting, comic book, drawing, mangled hands, comicbook
+
+, art by midjourney, cinematic shot photo taken by ARRI, photo taken by sony, photo taken by canon, photo taken by nikon, photo taken by sony, photo taken by hasselblad incredibly detailed, sharpen, details professional lighting, photography lighting 50mm, 80mm, 100m lightroom gallery behance photographys unsplash

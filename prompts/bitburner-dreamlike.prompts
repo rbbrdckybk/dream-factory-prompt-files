@@ -1,8 +1,10 @@
-# *****************************************************************************************************
+# ***********************************************************************************************************************
 # Dream Factory standard prompt file
+# BitBurner's Top 100 SD v1.5 prompts
+# requires dreamlike diffusion model: https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0
 # credit to BitBurner
 # original reddit thread: https://www.reddit.com/r/sdforall/comments/zouyyz/i_have_compiled_a_selection_of_100_prompts/
-# *****************************************************************************************************
+# ***********************************************************************************************************************
 [config]
 
 !MODE = standard
