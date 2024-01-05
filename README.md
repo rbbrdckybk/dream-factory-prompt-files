@@ -1,4 +1,4 @@
-<img align="right" height="50" src="img/dream-factory-sm.png" alt="Dream Factory"/>
+<img align="right" height="70" src="img/dream-factory-sm.png" alt="Dream Factory"/>
 
 # Dream Factory Prompt Files
 
