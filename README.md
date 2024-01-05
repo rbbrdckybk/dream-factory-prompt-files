@@ -1,4 +1,7 @@
+<img align="right" height="50" src="img/dream-factory-sm.png" alt="Dream Factory"/>
+
 # Dream Factory Prompt Files
+
 Some interesting prompt files for use with [Dream Factory](https://github.com/rbbrdckybk/dream-factory).
 
 ## Tutorials / Examples:
