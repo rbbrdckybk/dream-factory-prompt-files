@@ -5,4 +5,5 @@ Reddit user o0paradox0o's 80's-90's style fantasy art character generator.
  * Requires [Dreamscapes & Dragonfire model](https://civitai.com/models/50294/dreamscapes-and-dragonfire-dnw-30)
  * Requires [add_detail LoRA](https://civitai.com/models/58390)
 
-These .prompts files are meant to be used with [Dream Factory](https://github.com/rbbrdckybk/dream-factory).
+These .prompts files are meant to be used with [Dream Factory](https://github.com/rbbrdckybk/dream-factory). To use, download the .prompts file above and place it into your Dream Factory /prompts folder.
+

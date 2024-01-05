@@ -10,4 +10,4 @@ A selection of reddit user bitburner's 100 top prompts for SD 1.5 and SD 2.1, wi
  * Requires [midjourney.pt embedding](https://www.reddit.com/r/StableDiffusion/comments/z622mp/trained_midjourney_embedding_on_stable_diffusion/)
 
  
-These .prompts files are meant to be used with [Dream Factory](https://github.com/rbbrdckybk/dream-factory).
+These .prompts files are meant to be used with [Dream Factory](https://github.com/rbbrdckybk/dream-factory). To use, download the .prompts file above and place it into your Dream Factory /prompts folder.
